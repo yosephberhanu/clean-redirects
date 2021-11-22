@@ -1,0 +1,164 @@
+🚀 20+ Open Source Internship Programs you can Apply to 👇
+
+These programs offer interns a mentorship opportunity and a stable stipend to work on open source projects.
+
+1. Google Summer of Code (GSoC)
+
+- 700+ participating orgs
+- Organised by Google
+- $1500 - $3000 stipend
+
+https://t.co/E7v7ZxURkp
+2. Linux Foundation Mentorship Program (LFX)
+
+- Organised by The Linux Foundation
+- Can apply to 3 projects at a time
+- $3000 - $6600 stipend
+
+https://t.co/JGZNQOu0ab
+
+3. MLH Fellowship
+
+- Contribute to popular projects
+- Non-open-source programs available as well
+- Upto $5000 stipend (need based)
+
+https://t.co/IFDWD2MMGg
+
+4. Google Season of Docs (GSoD)
+
+- Contribute to docs
+- Good for technical writers
+- Stipend based on organisation's budget
+
+https://t.co/2PYRAvqeHu
+
+5. Outreachy
+
+- Initiative for underrepresented groups
+- $5500 stipend
+
+https://t.co/MncsKAVrFE
+
+6. Season of KDE
+
+- Code and non-code contributions
+- Contribute to KDE ecosystem
+- No stipend
+
+https://t.co/vnNVW643KL
+
+7. Free Software Foundation (FSF) Internship
+
+- Work with FSF staff
+- Non-code contributions to GNU projects
+- No stipend
+
+https://t.co/jLU1ZjMYr8
+
+8. Linux Kernel Mentorship Program
+
+- Work with experienced Linux Kernel maintainers
+- Contribute to Linux Kernel
+- Encourages participation from underrepresented groups
+- $3000 - $6600 stipend
+
+https://t.co/MUe8tBS7Z6
+
+9. Linux Foundation Networking (LFN) Mentorship Program
+
+- Work on projects like ONAP, OPNFV, OpenDaylight and https://t.co/Hw2YIr8zed
+- $3000 - $6600 stipend
+
+https://t.co/GFa0OquqiI
+
+10. GNOME Summer of Code
+
+- Get involved in GNOME projects
+- Encourages participation from underrepresented groups
+
+https://t.co/pzhoFaSgZQ
+
+11. Alibaba Summer of Code
+
+- Mentoring from Alibaba engineers
+- Work on Alibaba's open-source projects
+- Stipend provided
+
+https://t.co/OiDfVf3ceO
+
+12. FOSSASIA Codeheat
+
+- Contribute to FOSSASIA's GitHub projects
+- Top 10 contributors will be declared as winners by a jury
+- Prizes for winners
+
+https://t.co/NzD00UKhfZ
+
+13. FOSSASIA Internship Program
+
+- Work on a project continuously long-term
+- Variable timing based on participants
+
+https://t.co/4c2S3UiBeN
+
+14. Open Summer of Code
+
+- Work on projects from participating organisations, companies and governments
+- Stipend provided
+
+https://t.co/anZT9k2hz9
+
+15. Open Mainframe Project Mentorship Program
+
+- Expand your skills in mainframe technology
+- Contribute to projects that make running infrastructure applications on mainframes easier
+- Stipend provided
+
+https://t.co/lPK5wHuPT2
+
+16. CNCF Mentoring Initiatives
+
+- Offers internships through multiple mentoring programs
+- Stipend provided
+
+https://t.co/2Nob4NxPuK
+
+17. https://t.co/4ILFuLJaSA Endless Vacation of Code (EVoC)
+
+- Supports projects that could get rejected in GSoC
+- Can bring your own idea for a project or work on an existing idea
+- $3000 stipend
+
+https://t.co/9mbdm0Chnl
+
+
+18. Hyperledger Mentorship Program
+
+- Hands-on opportunity to gain exposure to Hyperledger
+- $3000 - $6000 stipend
+
+https://t.co/9Og2t5eqnN
+
+19. Julia Seasons of Contributions (JSoC)
+
+- Seasonal programs for funding or mentoring students
+- Contribute to Julia and its ecosystem
+- Stipend provided
+
+https://t.co/bkztDTUevC
+
+20. 24 Pull Requests
+
+- For new contributors
+- Make 24 PRs in December
+
+https://t.co/0Y965c1cy2
+
+21. Summer of Haskell
+
+- Effort by https://t.co/7Zaj11YiQY
+- Contribute to Haskell community
+- $1500 - $3300 stipend
+
+https://t.co/kQzol79O5G
