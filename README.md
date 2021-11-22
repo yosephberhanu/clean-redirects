@@ -11,5 +11,7 @@ Redirects accomplish numerous goals:
 
 ### Objective
 This script cleans a text file in order to replace links with in the file that are meant to go through a serious of redirects with the final URL
+
+### How to run
 python clean-redirectspy -f < input_file >
 
