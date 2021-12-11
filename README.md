@@ -1,6 +1,6 @@
-# Track redirects with in a file
+# Track redirects within a file
 ### Brief
-A script to parse all links with in a file and replace them with the final destination URL if they had redirects
+A script to parse all links within a file and replace them with the final destination URL if they had redirects
 ### Background
 URL redirection, also known as URL forwarding, is a technique to give more than one URL address to a page, a form, or a whole Web site/application. HTTP has a special kind of response, called a HTTP redirect, for this operation.
 
