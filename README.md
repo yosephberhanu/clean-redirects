@@ -13,5 +13,7 @@ Redirects accomplish numerous goals:
 This script cleans a text file in order to replace links with in the file that are meant to go through a serious of redirects with the final URL
 
 ### How to run
+```bash 
 python clean-redirectspy -f < input_file >
+```
 
